@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "zzzceciliaki"
+description              : " "
+repository               : "zzzceciliaki.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,23 +21,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "赵婕帆"
+  avatar           : "images/cheese.jpg"
+  bio              : "FZU   hobby:3D jigsaw puzzle  studying:c/c#/English"
+  location         : "FUZHOU, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "3917162085@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : 
   facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
+  foursquare       : 
+  github           : " github.zzzceciliaki"
   google_plus      :
   keybase          :
   instagram        :
@@ -49,11 +49,11 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "forget number..."
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            : "15690881845"
   xing             :
   youtube          :
   wikipedia        :
